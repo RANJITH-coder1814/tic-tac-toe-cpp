@@ -25,15 +25,3 @@ tic-tac-toe-cpp/
 2. Compile the program:
    g++ main.cpp -o tictactoe
 
-3. Run:
-   ./tictactoe
-
-## 📸 Demo
-Player 1 -> X  
-Player 2 -> O  
-
-## 📜 License
-Free to use for learning and educational purposes.
-
----
-⭐ If you like this project, give it a star!
